@@ -1,4 +1,4 @@
-# Windows GDI plus fuzzer
+# Windows Graphics Device Interface (GDI+) fuzzer
 
 this project including
 - harness to fuzz GDI+ via transform emf to wmf
@@ -15,6 +15,6 @@ some of my vulnerability which could be triggered in Microsoft Powerpoint get lo
 
 happy bug hunting!
 
-##credit
+## credit
 
 created by Wenxu Wu (<a href="https://twitter.com/ma7h1as">@ma7h1as</a>)
