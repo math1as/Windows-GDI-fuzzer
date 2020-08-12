@@ -17,7 +17,7 @@ happy bug hunting!
 
 ## CVE-ID?
 
-At that time I go on holiday with my girlfriend ,left the fuzzer just running day after night.
+At that time I go on holiday ,left the fuzzer just running day after night.
 so I forget to report these vulnerabilities at all ,most of them get patched in Microsoft July patch tuesday.
 
 ## credit
