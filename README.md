@@ -8,7 +8,8 @@ this project including
 Note:
 
 Since the bottleneck of fuzzer is the IO performance of the disk, the use of RAMDISK can effectively speed up this process.
-But remember to make a snapshot for your vm-machine or you may lost all of your files (some of my test corpus get lost in this way ,will attach them if recovered).
+But remember to make a snapshot for your vm-machine or you may lost all of your files.
+some of my vulnerability which could be triggered in Microsoft Powerpoint get lost in this way ,will attach them if recovered.
 
 happy bug hunting!
 
