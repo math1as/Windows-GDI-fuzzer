@@ -15,4 +15,4 @@ some of my vulnerability which could be triggered in Microsoft Powerpoint get lo
 
 happy bug hunting!
 
-created by Wenxu Wu (@ma7h1as)
+created by Wenxu Wu (<ahref="https://twitter.com/ma7h1as">@ma7h1as</a>)
