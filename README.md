@@ -1,4 +1,4 @@
-# Windows GDI+ fuzzer
+# Windows GDI plus fuzzer
 
 this project including
 - harness to fuzz GDI+ via transform emf to wmf
