@@ -22,4 +22,4 @@ so I forget to report these vulnerabilities at all ,most of them get patched in 
 
 ## credit
 
-created by Wenxu Wu (<a href="https://twitter.com/ma7h1as">@ma7h1as</a>)
+Personal project created by Wenxu Wu(<a href="https://twitter.com/ma7h1as">@ma7h1as</a>)
