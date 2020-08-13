@@ -21,6 +21,8 @@ happy bug hunting!
 
 At that time I go on holiday ,left the fuzzer just running day after night.
 so I forget to report these vulnerabilities at all ,most of them get patched in Microsoft July patch tuesday.
+![patch](https://raw.githubusercontent.com/math1as/Windows-GDI-fuzzer/master/patch.txt)
+
 
 ## credit
 
